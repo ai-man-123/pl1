@@ -820,8 +820,8 @@ try {
 			const type = Object.keys(mek.message)[0]
 			const lolhuman = client
             const lol = mek
-            const apikeyl = 'Radyaku'
-            const apikey = 'Radyaku'
+            const apikeyl = 'SELFikyBOT'
+            const apikey = 'SELFikyBOT'
             const ZeksApi = 'apivinz'
             const ApiDevolover = 'PunyaIkyAds'
 			const apiKey = 'barbarapih' // contact me on whatsapp wa.me/6285892766102
